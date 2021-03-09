@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a backend developer and a Linux enthusiast.
+I am a backend developer.
 
-- 🔭 I’m currently working on industrial data acquisition systems.
-- 🌱 I’m currently trying to implement Profinet protocol.
-- 💬 Ask me about industrial communication protocols and my open source projects.
+- 🔭 I’m currently working for Biges Güvenli Hayat Teknolojileri A.Ş.
+- 💬 Ask me about my open source projects.
 
 Thank you for your interest...
 
