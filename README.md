@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a backend software developer.
+I am a go developer.
 
 - 🔭 I’m currently working for Biges Güvenli Hayat Teknolojileri A.Ş.
 - 💬 Ask me about my open source projects
